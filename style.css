@@ -45,6 +45,7 @@ label {
 .error {
 	text-align: center;
   color: #d33030;
+	margin-top: 10px;
 }
 
 .audio-control {
